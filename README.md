@@ -1,3 +1,2 @@
-practicnado git
-
-aplicando cambios 1
+## hola soy amauri proximo programador duro
+## tu estas claro
